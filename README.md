@@ -43,3 +43,5 @@
 ![Каталог папки](https://github.com/L1ghtsitte/formula_gerona/blob/main/photo%2Fgeron_11.jpg)
 
 На этом все
+
+//[whrite by L1ghtsitte](https://github.com/L1ghtsitte)\\\
